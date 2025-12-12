@@ -17,4 +17,4 @@
 - [API Projects](#api-projects)
 - [UI Projects](#ui-projects)
 - [Mobile Projects](#mobile-projects)
-- [Contact](#contact) ///
+- [Contact](#contact)
