@@ -3,7 +3,7 @@
 ## 🌐 Portfolio Dashboard
 | Domain | Hub Repository | Status | Last Updated |
 |:---|:---|:---|:---|
-| **🔗 API Testing** | [api-automation-hub](link ) | ✅ Active | 2025 |
+| **🔗 API Testing** | [api-automation-hub](https://github.com/rkmendoza/api-rest-assured-java.git) | ✅ Active | 2025 |
 | **🎨 UI Testing** | [ui-automation-hub](link) | 🚧 Planned | - |
 | **📱 Mobile Testing** | [mobile-automation-hub](link) | 🗓️ Planned | - |
 
